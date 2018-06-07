@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">State Capitals</string>
+    <string name="Name">Name</string>
+    <string name="question1">Question 1: What is the capital of New York?</string>
+    <string name="Albany">Albany</string>
+    <string name="Buffalo">Buffalo</string>
+    <string name="NewYork">NewYork</string>
+    <string name="Rochester">Rochester</string>
+    <string name="Question2">Question 2: What is the capital of Texas?</string>
+    <string name="Austin">Austin</string>
+    <string name="Dallas">Dallas</string>
+    <string name="Houston">Houston</string>
+    <string name="SanAntonio">San Antonio</string>
+    <string name="Question3">Question 3: What is the capital of Michigan?</string>
+    <string name="AnnArbor">Ann Arbor</string>
+    <string name="Detroit">Detroit</string>
+    <string name="GrandRapids">Grand Rapids</string>
+    <string name="Lansing">Lansing</string>
+    <string name="Question4">Question 4: What is the capital of New Hampshire?</string>
+    <string name="Concord">Concord</string>
+    <string name="Manchester">Manchester</string>
+    <string name="Nashua">Nashua</string>
+    <string name="Portsmouth">Portsmouth</string>
+    <string name="Question5">Question 5: What is the capital of Washington state?</string>
+    <string name="Capital">Capital</string>
+    <string name="Question6">Question 6: These cities have hosted the Olympic Games.  How many of them are state capitals?</string>
+    <string name="Atlanta">Atlanta</string>
+    <string name="LakePlacid">Lake Placid</string>
+    <string name="LosAngeles">Los Angeles</string>
+    <string name="SaltLakeCity">Salt Lake City</string>
+    <string name="SquawValley">Squaw Valley</string>
+    <string name="StLouis">St. Louis</string>
+    <string name="GradeQuiz">Grade Quiz</string>
+    <string name="ResetQuiz">Reset Quiz</string>
+</resources>
